@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidInterstitialAds.iml" filepath="$PROJECT_DIR$/AndroidInterstitialAds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Admob-Interstitial-Ad.iml" filepath="$PROJECT_DIR$/Android-Admob-Interstitial-Ad.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
